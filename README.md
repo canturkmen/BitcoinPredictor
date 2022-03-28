@@ -1,2 +1,2 @@
 # BitcoinPredictor
-Bitcoin Prediction Project with 2021 dataset
+Bitcoin Price Prediction Project with 2021 dataset
